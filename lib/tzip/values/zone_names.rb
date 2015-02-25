@@ -6,6 +6,7 @@ module TZip
     mountain: "Mountain Time (US & Canada)",
     arizona:  "Arizona",
     central:  "Central Time (US & Canada)",
-    eastern:  "Eastern Time (US & Canada)"
+    eastern:  "Eastern Time (US & Canada)",
+    indiana:  "Indiana (East)"
   }
 end
