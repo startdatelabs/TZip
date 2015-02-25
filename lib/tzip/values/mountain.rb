@@ -1,9 +1,9 @@
 module TZip
-  ZONINGS[:mountain] = %w{37374 37375 37376 37378}
-  ZONINGS[:mountain] += %w{577}
-  ZONINGS[:mountain] += %w{59}
-  ZONINGS[:mountain] += %w{67733 67735 67741 67758 67761 67762 67836 67838 67857 67860 67870 67878 67879}
-  ZONINGS[:mountain] += %w{798 799}
-  ZONINGS[:mountain] += %w{80 81 82 83 84 85 86 87 88}
-  ZONINGS[:mountain] += %w{97901 97902 97903 97906 97908 97909 9791}
+  ZONINGS[:mountain]  = %w(37374 37375 37376 37378)
+  ZONINGS[:mountain] += %w(577)
+  ZONINGS[:mountain] += %w(59)
+  ZONINGS[:mountain] += %w(67733 67735 67741 67758 67761 67762 67836 67838 67857 67860 67870 67878 67879)
+  ZONINGS[:mountain] += %w(798 799)
+  ZONINGS[:mountain] += %w(80 81 82 83 84 85 86 87 88)
+  ZONINGS[:mountain] += %w(97901 97902 97903 97906 97908 97909 9791)
 end
