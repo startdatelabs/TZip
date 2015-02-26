@@ -12,6 +12,7 @@ require 'tzip/values/arizona'
 require 'tzip/values/pacific'
 require 'tzip/values/alaska'
 require 'tzip/values/hawaii'
+require 'tzip/values/indiana'
 require 'tzip/values/unused'
 require 'tzip/mapping'
 
